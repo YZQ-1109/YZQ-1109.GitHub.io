@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4273662 */
-  src: url('//at.alicdn.com/t/c/font_4273662_i2ep571vx0b.woff2?t=1696855504387') format('woff2'),
-       url('//at.alicdn.com/t/c/font_4273662_i2ep571vx0b.woff?t=1696855504387') format('woff'),
-       url('//at.alicdn.com/t/c/font_4273662_i2ep571vx0b.ttf?t=1696855504387') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_4273662_m6gd15dscze.woff2?t=1696857177062') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4273662_m6gd15dscze.woff?t=1696857177062') format('woff'),
+       url('//at.alicdn.com/t/c/font_4273662_m6gd15dscze.ttf?t=1696857177062') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-googlescholar:before {
+  content: "\ebae";
 }
 
 .icon-researchgate:before {
